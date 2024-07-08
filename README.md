@@ -43,6 +43,10 @@
 
     URL : [https://www.bigdata-forest.kr/](https://www.bigdata-forest.kr/)
 
+- K water 공공데이터 개방포터 
+
+    URL : [https://opendata.kwater.or.kr/main.do](https://opendata.kwater.or.kr/main.do)
+
 ### 국외
 
 - e-Stat (일본)
