@@ -47,6 +47,12 @@
 
     URL : [https://opendata.kwater.or.kr/main.do](https://opendata.kwater.or.kr/main.do)
 
+#### 교통
+
+- 경기도 교통 정보 센터
+
+    URL : [https://gits.gg.go.kr/web/main/index.do](https://gits.gg.go.kr/web/main/index.do)
+
 ### 국외
 
 - e-Stat (일본)
